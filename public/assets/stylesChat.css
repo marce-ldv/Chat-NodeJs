@@ -1,0 +1,17 @@
+#chat{
+    height: 400px;
+    border: 1px solid #000;
+    width: 50%;
+    margin-left: 25%;
+}
+
+#message-box{
+    margin-left: 25%;
+}
+
+.btn-submit{
+    background-color: green;
+    color: #ffffff;
+    border-radius: 2vh;
+    margin-left: 25%;
+}
